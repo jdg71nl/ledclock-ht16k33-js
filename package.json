@@ -1,0 +1,25 @@
+{
+  "name": "ledclock-ht16k33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdg71nl/ledclock-ht16k33-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdg71nl/ledclock-ht16k33-js/issues"
+  },
+  "homepage": "https://github.com/jdg71nl/ledclock-ht16k33-js#readme",
+  "dependencies": {
+    "johnny-five": "^2.1.0",
+    "moment": "^2.30.1",
+    "raspi-io": "^11.0.0"
+  }
+}
